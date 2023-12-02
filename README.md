@@ -1,2 +1,3 @@
 # YoutubeDownloader
-Youtube video downloader
+Youtube video downloader.
+That's all.
