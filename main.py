@@ -15,8 +15,8 @@ def download():
   yd.download("./Downloaded videos from YouTube")
   text["text"] = f"Just downloaded video \"{yt.title}\" by \"{yt.author}\""
 
-photo = ttk.PhotoImage(file = "./youtube-logo.png")
-window.iconphoto(False, photo)
+# photo = ttk.PhotoImage(file = "./youtube-logo.png")
+# window.iconphoto(False, photo)
 
 main = ttk.Frame(window)
 main.pack(expand=True)
